@@ -1,0 +1,2 @@
+# CSFMLInitPythonEdition
+CSFMLInitPythonEdition by Jugmonity
